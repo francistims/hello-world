@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+First Git Doc,
+
+Kwani Git haina spell check!!
